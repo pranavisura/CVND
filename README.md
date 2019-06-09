@@ -1,2 +1,2 @@
 # CVND
-Project from the Computer Vision Nano degree Program
+Image Captioning Project from Computer Vision Nano degree Program
